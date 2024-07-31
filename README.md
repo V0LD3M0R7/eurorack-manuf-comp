@@ -1,5 +1,7 @@
 # eurorack-manuf-comp
 
+🚧 **REPO is still under construction** 🚧
+
 Compilation of useful files, websites, data sheets, and much more for making eurorack modules
 
 ## Intro
